@@ -1,0 +1,16 @@
+[Unit]
+Description=Elastic Search
+After=network.target
+
+[Service]
+User=elastic
+Group=elastic
+Type=simple
+#PIDFile=/d/run/elastic/elastic.pid
+ExecStart=/usr/bin/su elastic /usr/local/elastic/bin/elasticsearch 
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s QUIT $MAINPID
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
