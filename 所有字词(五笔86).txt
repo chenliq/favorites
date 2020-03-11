@@ -36506,8 +36506,7 @@ lrhq 覱
 lrii 黑白混淆
 lrip 轻描淡写
 lrj 暂
-lrjf 暂 暂时 暫
-lrkg （）
+lrjf 暂时 暂 暫
 lrkh 蹔
 lrkl 暂别
 lrle 轻手轻脚
@@ -46431,7 +46430,7 @@ pwfd 窦
 pwff 窐
 pwfh 穿越 突起
 pwfi 察
-pwfj 罕 突进 窨井 穽
+pwfj 窨井 突进 罕 穽
 pwfk 窃喜
 pwfm 突击 竇
 pwfn 竃
@@ -58422,7 +58421,7 @@ ssds 酩酊大醉
 ssdt 可想而知
 sse 彬
 ssep 禁受
-sset 彬 禁用
+sset 禁用 彬
 ssf 禁
 ssfb 林地 禁地
 ssfc 禁运
