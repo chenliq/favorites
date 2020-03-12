@@ -71667,7 +71667,7 @@ wgnh 剑眉
 wgnj 傲慢 侴
 wgnk 合璧
 wgnl 㿽
-wgnn 全局 全书 僵局 僵尸 佤
+wgnn 僵尸 全局 全书 僵局 佤
 wgnt 愈发
 wgnu 全屏
 wgny 全心
