@@ -66477,7 +66477,7 @@ umn 竌
 umna 商展
 umnb 憋屈
 umnf 疾风迅雷
-umng 商情 疫情
+umng 疫情 商情
 umnk 瘑
 umnn 意见书
 umnt 敝屣
@@ -72005,6 +72005,7 @@ wim 倘
 wimk 倘
 wimt 僘
 wimw 分水岭
+win windows
 winl 信赏必罚
 wip 偿
 wipc 偿
