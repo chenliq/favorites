@@ -22525,7 +22525,7 @@ gyng 一夜情
 gynk 玉璧
 gynp 一言以蔽之
 gyog 再就业
-gyoy 玉米 平方米
+gyoy 玉米 平方米 ㎡ m²
 gype 理论家
 gypf 一席之地
 gypg 更衣室
@@ -68215,7 +68215,7 @@ uynw 阂 痎 閡
 uyny 闹心
 uyod 门类
 uyow 凉粉
-uyoy 立方米
+uyoy 立方米 m³
 uypf 辩论赛
 uypm 门户之见
 uypo 闹灾
@@ -72642,7 +72642,7 @@ wnww 人民代表大会
 wnwx 假货
 wnwy 追念 㒛
 wnx 伲
-wnxk 倔强
+wnxk 倔强 追缉
 wnxn 伲
 wnxr 追缴
 wny 似 伈
