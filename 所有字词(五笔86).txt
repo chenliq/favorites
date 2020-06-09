@@ -51,7 +51,7 @@ aafw 工夫
 aafy 落花无言
 aaga 甘苦与共
 aagc 工致
-aagf 工于 䒰
+aagf 䒰
 aagg 工工整整
 aagh 攻其一点
 aagk 工整
@@ -490,7 +490,7 @@ adng 苦情
 adnn 藏书 项羽
 adnt 藏 茂 荿
 adny 苦恼 苦心
-adod 蕨类 基类 匪类
+adod 基类 蕨类 匪类
 adog 基业
 adoo 惹火
 adou 世态炎凉
@@ -548,7 +548,7 @@ adtf 期待 匪徒 䓓
 adtg 欺生
 adth 苦处 藶
 adtj 惹得
-adtm 藏身 甚微 苦役
+adtm 藏身 苦役 甚微
 adtt 苦笑
 adtv 功成身退
 adtw 其奈我何
@@ -23522,7 +23522,7 @@ hkdu 鼎足而立 奌
 hkdw 鼎足三分
 hkdx 战龙
 hkeg 睊
-hket 战胜 占用 㣌
+hket 占用 战胜 㣌
 hkf 占
 hkfb 占地 战地
 hkfc 占去
@@ -42262,7 +42262,7 @@ nyfn 心声 心志
 nyfq 心坎
 nyft 尽孝
 nyfu 心境
-nygc 以致 以至 迟到
+nygc 迟到 以致 以至
 nygd 屡试不爽
 nyge 心静
 nygf 忙于
@@ -60870,7 +60870,7 @@ tgki 䇿
 tgkj 重唱
 tgkk 处理器 生殖器
 tgkl 稫 䈏
-tgkm 管理员 垂吊 籁 籟
+tgkm 籁 管理员 垂吊 籟
 tgkr 重听
 tgkt 生吃
 tgku 微不足道 䇺
@@ -80125,7 +80125,7 @@ ysgd 摩天 庮 㡷
 ysge 调查表
 ysgf 恋栈不去
 ysgg 魔王
-ysgh 麾下 订正
+ysgh 订正 麾下
 ysgk 麻豆
 ysgm 靡丽
 ysgo 磨灭
