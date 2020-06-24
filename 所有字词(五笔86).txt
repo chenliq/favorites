@@ -55276,7 +55276,7 @@ rvca 热劲
 rvcb 揤
 rvce 热能 势能
 rvcq 摡
-rvdc 挚友
+rvdc 扫码 挚友
 rvdf 热压
 rvdg 挪威
 rvdi 热泵
