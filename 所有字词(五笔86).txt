@@ -13484,7 +13484,7 @@ etux 腹背
 etvb 用好
 etvg 腇
 etwd 胜仗
-etwg 用命
+etwg 用例
 etwh 豵 䐫
 etwn 胜似
 etwq 乃父
@@ -28908,6 +28908,7 @@ iyeg 兴高采烈
 iyek 㵝
 iyep 流脓
 iyes 流彩
+iyew 测试用例
 iyey 流脑 㳖
 iyfa 流域
 iyfc 流动 游动 流云 游魂
@@ -74318,7 +74319,7 @@ wyax 含蕴
 wyay 储蓄 含蓄
 wyb 禽
 wybb 领子
-wybc 禽 领取 集聚
+wybc  领取 集聚 禽
 wybd 依随
 wybg 焦耳
 wybi 信函
